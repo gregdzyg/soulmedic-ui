@@ -5,7 +5,7 @@ Umożliwia pacjentom umawianie wizyt z lekarzami różnych specjalizacji w formi
 
 🌐 Live Demo
 
-Aplikacja online: SOULMEDIC – Railway Deployment
+Aplikacja online: https://soulmedic-ui-production.up.railway.app
 
 🖼️ Layout i struktura
 
@@ -66,5 +66,6 @@ npm run dev
 Aplikacja uruchomi się pod adresem: http://localhost:5173
 
 📚 Autor
+
 
 Projekt wykonany przez Grzegorz Dżyg na zaliczenie ćwiczeń przedmiotu "Tworzenie interfejsów użytkownika" (2025).
